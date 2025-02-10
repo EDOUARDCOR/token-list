@@ -1,12 +1,17 @@
 {
-    "chainId": 101,
-    "address": "138prrzgNmnVbLXLuFFprXpC9zJhj5L6AuQZN9LK9cgP",
-    "symbol": "51SC",
-    "name": "51StateCoin",
-    "decimals": 9,
-    "logoURI": "https://51statecoin.carrd.co/assets/images/image01.jpg?v=47cdb570",
+  "chainId": 101,
+  "address": "138prrzgNmnVbLXLuFFprXpC9zJhj5L6AuQZN9LK9cgP",
+  "symbol": "51SC",
+  "name": "51StateCoin",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/VzCta5O.png",
+  "tags": ["meme", "community"],
+  "extensions": {
     "website": "https://51statecoin.carrd.co",
     "twitter": "https://twitter.com/51SCMCGA",
     "telegram": "https://t.me/+VMr2afKAOlo4Njlk",
-    "description": "51StateCoin est un meme coin révolutionnaire basé sur Solana.",
-    "tags": ["meme", "solana"]
+    "description": "51StateCoin is a revolutionary meme coin on Solana, inspired by the race to become the 51st state of the USA!",
+    "coingeckoId": "",
+    "coinmarketcapId": ""
+  }
+}
